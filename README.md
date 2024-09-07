@@ -5,7 +5,7 @@ My first task is to load all of Rockbuster's data into a relational database man
 Then, I used SQL to analyze the data and answer any impromptu business questions that other departments may have.
 
 ## **Key Questions & Objectives**
-The Rockbuster Stealth Manageement Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they'd like to answer:
+The Rockbuster Stealth Management Board has asked a series of business questions, and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they'd like to answer:
 1. Which movies contributed the most/least to revenue gain?
 2. What was the average rental duration for all videos?
 3. Which countries are Rockbuster customers based in?

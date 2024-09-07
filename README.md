@@ -13,7 +13,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 5. Do sales figures vary between geographic regions?
 
 ## **Systems used**
--pgAdmin4: Graphical user interface for PostgreSQL
+-pgAdmin4: Graphical user interface for PostgreSQL used to manage the PostgreSQL database managemnt system and execute queries using SQL
 -PostgreSQL: Relational database management system (RDBMS) used to store and query Rockbuster's data.
 -Tableau Public: Platform for creating and sharing interactive data visualizations
 

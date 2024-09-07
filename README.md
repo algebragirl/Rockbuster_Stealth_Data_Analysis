@@ -1,8 +1,8 @@
 # **Rockbuster_Stealth_Data_Analysis**
 ## **Summary**
-I have been hired as a data analyst by Rockbuster Stealth business intelligence (BI) department to help withthe launch strategy for the new online video service.
-My first task is to load all of Rockbuster's data into a relational dataase management system (RDBMS).
-Then, I used SQL to analyze the data and answer any ad-hoc business questions that other departments may have.
+I have been hired as a data analyst by Rockbuster Stealth business intelligence (BI) department to help with the launch strategy for their new online video service.
+My first task is to load all of Rockbuster's data into a relational database management system (RDBMS).
+Then, I used SQL to analyze the data and answer any impromptu business questions that other departments may have.
 
 ## **Key Questions & Objectives**
 The Rockbuster Stealth Manageement Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they'd like to answer:

@@ -21,6 +21,3 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ## **Dataset**
 This dataset contains information about Rockbuster's film inventory, customers, payments, and other related information.
-
-## **Visualization** 
-View the Visualization on Tableau Public
